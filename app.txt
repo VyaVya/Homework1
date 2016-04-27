@@ -1,2 +1,6 @@
 hello
+<<<<<<< HEAD
 first
+=======
+second commit
+>>>>>>> branch_2
